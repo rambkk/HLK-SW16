@@ -22,5 +22,8 @@ In this project, scripts will make direct connection to the module via TCP port 
 (relaystatus.sh) 
 -Get the current status of each relay switch
 
-
+# License
+Copyright (C) 2018 Ram Narula ram@pluslab.com
+Licensed under the GPL-3.0 license.
+(See the LICENSE file for the whole license text.)
 
