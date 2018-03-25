@@ -1,4 +1,4 @@
-# HLK-SW16
+# HLK-SW16 scripts
 
 Scripts to interface HLK-SW16 which is the IP ready (Wired and Wifi) 16x relay switches electronic module.<br />
 The input/output commands has been derived from captured network packets and also from https://github.com/jameshilliard/HLK-SW16-FW
